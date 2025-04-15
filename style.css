@@ -13,7 +13,7 @@
   /* other styles */
 }
 
-.hover-box {
+.hover-box:hover {
   background-color: #88B04B;
 }
 
